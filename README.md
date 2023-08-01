@@ -3,7 +3,7 @@
 Hope you're doing great! 
 I came across your profile and I'm really impressed with your work as a data analyst. As a self-taught data analyst myself, I'd love to connect and learn from you. 
 
-I've had some experience at Ricochet and I'm pretty comfortable with SQL and Python, though I'm still working on improving my skills with Dune. Could you please take a look at my portfolio on GitHub? I'd really appreciate your feedback and any guidance you can offer. If you have any data projects or tasks, I'd be more than happy to help out. And hey, if you happen to know of any job openings, I'd be absolutely thrilled if you could put in a good word for me.e.
+I've had some experience, and comfortable with SQL and Python, though I'm still working on improving my skills . Could you please take a look at my portfolio on GitHub? I'd really appreciate your feedback and any guidance you can offer. If you have any data projects or tasks, I'd be more than happy to help out. And hey, if you happen to know of any job openings, I'd be absolutely thrilled if you could put in a good word for me.e.
 
 Here are some ideas to get you started:
 
