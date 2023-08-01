@@ -3,6 +3,7 @@
 
 I'm Raymond James Ntabazi, a Data analyst and Data enthusiast from Kampala, Uganda
 Data professional passionate about the use of data to provide insightful knowledge, guide business decisions, and create novel solutions.
+
 I constantly explore and analyze data using different business intelligence tools, data visualization techniques, data mining, and predictive modeling because I firmly believe in the potential of data-driven decision-making.
 
 
