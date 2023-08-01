@@ -7,11 +7,16 @@ Data professional passionate about the use of data to provide insightful knowled
 💥I constantly explore and analyze data using different business intelligence tools, data visualization techniques, data mining, and predictive modeling because I firmly believe in the potential of data-driven decision-making.
 
 
-## Skills
+## 🎇 Skills
+
 Excel
+
 SQL
+
 Tableau
+
 Power BI
+
 Python
 
 
