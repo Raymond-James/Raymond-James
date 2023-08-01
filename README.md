@@ -1,18 +1,17 @@
-## Hi there 👋
+Hello, and welcome to my profile
+I'm Raymond James Ntabazi, a Data analyst and Data enthusiast from Kampala, Uganda
+Data proffesional passionate about the use of data to provide insightful knowledge, guide business decisions, and create novel solutions.
+I constantly explore and analyze data using different business intelligence tools, data visualization techniques, data mining, and predictive modeling because I firmly believe in the potential of data-driven decision-making.
+ Skills
+Excel
+SQL
+Tableau
+Power BI
+Python
+ Why Data?
+Create data-driven solutions that help companies accomplish their strategic goals while maximising operations and consumer experiences.
 
-Hope you're doing great! 
-I came across your profile and I'm really impressed with your work as a data analyst. As a self-taught data analyst myself, I'd love to connect and learn from you. 
+ Kindly reach out through
+As a data professional, I'm constantly seeking for new opportunities to learn and advance. Please feel free to contact me at to learn more about my work or to discuss a potential partnership.
 
-I've had some experience, and comfortable with SQL and Python, though I'm still working on improving my skills . Could you please take a look at my portfolio on GitHub? I'd really appreciate your feedback and any guidance you can offer. If you have any data projects or tasks, I'd be more than happy to help out. And hey, if you happen to know of any job openings, I'd be absolutely thrilled if you could put in a good word for me.e.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rayjam93@gmail.com
