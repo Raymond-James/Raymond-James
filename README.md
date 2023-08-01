@@ -30,3 +30,4 @@ As a data professional, I'm constantly seeking new opportunities to learn and ad
  rayjam93@gmail.com
 ## Other links
  - [Tableau Portfolio](https://public.tableau.com/app/profile/raymond.james.ntabazi)
+ - [Power BI Portfolio](https://www.novypro.com/profile_projects/raymondjamesntabazi)
