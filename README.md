@@ -28,3 +28,5 @@ Create data-driven solutions that help companies accomplish their strategic goal
 As a data professional, I'm constantly seeking new opportunities to learn and advance. Please feel free to contact me to learn more about my work or to discuss a potential partnership.
 
  rayjam93@gmail.com
+## Other links
+ - [Tableau Portfolio](https://public.tableau.com/app/profile/raymond.james.ntabazi)
