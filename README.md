@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Hope you're doing great! 
 I came across your profile and I'm really impressed with your work as a data analyst. As a self-taught data analyst myself, I'd love to connect and learn from you. 
